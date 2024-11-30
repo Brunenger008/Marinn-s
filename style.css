@@ -1,0 +1,123 @@
+.titul{
+  color:white;
+  background-color: black;
+  text-align: center;
+  border-radius: 100px;
+       }
+.h2{
+  text-align: center;
+  background-color:black;
+  color:white;
+  border-radius: 10px;
+    }
+.img1{
+    background-color: darkturquoise;
+    text-align: center;
+    border-radius: 5px;
+      }
+
+.h3{
+    color: white;
+    background-color: darkturquoise;
+    text-align: center;
+    border-radius: 5px;
+    }
+
+
+.img2{
+    background-color: blue;
+    text-align: center;
+    border-radius: 5px;
+      }
+
+.h4{
+    color: yellow;
+    background-color: blue;
+    text-align: center;
+    border-radius: 5px;
+    }
+
+.img3{
+    background-color: grey;
+    text-align: center;
+    border-radius: 5px;
+      }
+
+.h5{
+    color: brown;
+    background-color: grey;
+    text-align: center;
+    border-radius: 5px;
+    }
+
+
+.img4{
+    background-color: pink;
+    text-align: center;
+    border-radius: 5px;
+      }
+
+.h6{
+    color: palevioletred;
+    background-color: pink;
+    text-align: center;
+    border-radius: 5px;
+    }
+
+.img5{
+    background-color: deepskyblue;
+    text-align: center;
+    border-radius: 5px;
+      }
+
+.h7{
+    color: white;
+    background-color: deepskyblue;
+    text-align: center;
+    border-radius: 5px;
+    }
+
+.img6{
+    background-color: lightblue;
+    text-align: center;
+    border-radius: 5px;
+      }
+
+.h8{
+    color: white;
+    background-color: lightblue;
+    text-align: center;
+    border-radius: 5px;
+    }
+
+.img7{
+    background-color: lightblue;
+    text-align: center;
+    border-radius: 5px;
+      }
+
+.h9{
+    color: white;
+    background-color: lightblue;
+    text-align: center;
+    border-radius: 5px;
+    }
+
+.img8{
+    background-color: lightblue;
+    text-align: center;
+    border-radius: 5px;
+      }
+
+.h10{
+    color: white;
+    background-color: lightblue;
+    text-align: center;
+    border-radius: 5px;
+    }
+ button{
+ color: black;
+   
+   
+   
+ }
